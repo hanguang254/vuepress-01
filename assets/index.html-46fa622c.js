@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-40570b6b","path":"/web3/ethers/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1671530352000,"contributors":[{"name":"hanguang254","email":"725204548@qq.com","commits":1}]},"filePathRelative":"web3/ethers/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-323d32f8","path":"/contract/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"solidity","slug":"solidity","link":"#solidity","children":[]}],"git":{"updatedTime":1671530352000,"contributors":[{"name":"hanguang254","email":"725204548@qq.com","commits":1}]},"filePathRelative":"contract/README.md"}');export{t as data};

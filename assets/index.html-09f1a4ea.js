@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-26151ab6","path":"/web3/hardhat/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1671530352000,"contributors":[{"name":"hanguang254","email":"725204548@qq.com","commits":1}]},"filePathRelative":"web3/hardhat/README.md"}');export{a as data};
